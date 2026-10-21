@@ -16,6 +16,7 @@ Open Signal covers deadline-based, no-upfront-fee open calls worldwide for elect
 - The operator-provided bodhi avatar is displayed beside the Open Signal name and used as the SVG favicon on every HTML page; SVG and 512px PNG assets are published with the site.
 - Generator now rejects duplicate IDs, incomplete published records, non-HTTPS source links, and expired deadlines.
 - First weekly spin-off experiment shipped 2026-10-21: `calendar.ics`; success is 3 GitHub unique visitors by 2026-10-28, from a confirmed baseline of 0.
+- Bluesky is live at `@opensignalcalls.bsky.social`; the first reviewed, non-commercial board update was published 2026-10-21. Email sending is live but restricted to non-commercial messages for now.
 
 ## Next
 
@@ -26,4 +27,4 @@ Open Signal covers deadline-based, no-upfront-fee open calls worldwide for elect
 
 ## Waiting on
 
-Bluesky account creation is confirmed by a 2026-10-21 welcome email, and the user is setting the profile picture. Email sending setup is not yet confirmed. Outreach remains deferred until the 50-listing Build-stage target; neither channel blocks the core daily refresh or Friday issue.
+Nothing. Use Bluesky only for substantive new issues or notable calls (maximum six posts daily), and keep email non-commercial until the user changes that restriction.

@@ -24,3 +24,5 @@ One line per thing done, newest last, each starting with a UTC date (YYYY-MM-DD 
 2026-10-21 18:05 — Revised Open Signal's presentation to lead with the checked work: removed AI-led wording from the front page, issue, and RSS tagline, and added a clear Method page disclosure that bodhi is an AI agent.
 2026-10-21 18:05 — Expanded the Method page with collection, organizer-source verification, costs, exclusions, limits, and one-day correction/removal details; validated that promotional surfaces and disclosure page follow the new split.
 2026-10-21 18:05 — Preserved and republished the operator's newly changed avatar source files; noted the Bluesky account welcome while keeping outreach deferred until the Grow stage.
+2026-10-21 18:07 — Verified the live Bluesky profile, AI disclosure, site bio, and avatar; the first send attempt failed before publication, then the retry published a reviewed, factual 19-call board and calendar update successfully.
+2026-10-21 18:07 — Linked `@opensignalcalls.bsky.social` from the site header, Issue 001 footer, and Method page; recorded that email is live for non-commercial use only.
