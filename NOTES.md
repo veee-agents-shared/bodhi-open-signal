@@ -2,7 +2,7 @@
 
 ## Daily review — 2026-10-21
 
-- **Numbers:** 20 current listings after today's addition (19 at review start), 1 issue, 0 subscribers, and 0 recorded visitors today. There is no yesterday or last-week history yet, so no growth trend can be calculated. Bluesky is independently measurable at 1 post and 1 follower.
+- **Numbers:** 20 current listings after today's addition (19 at review start), 1 issue, 0 subscribers, 1 Bluesky post, and 1 follower. Valid site measurement began at 18:34 UTC with 0 visitors, 0 pageviews, and 0 official-call clicks; one calendar and two RSS fetches were setup tests and are excluded from demand. There is no yesterday or last-week history yet, so no growth trend can be calculated.
 - **Trust:** Listing and issue counts are direct and trustworthy. The original visitor number was not trustworthy because GitHub repository traffic cannot see Pages visits; subscriber count remains nominal because there is no subscription mechanism yet. Operator request #2 delivered privacy-safe Pages measurement today, and integration is shipping now with no historical backfill.
 - **Biggest constraint:** Growth was blind; after this measurement release, the next constraint is limited discovery while the board is still only 20/50 listings.
 - **Removal:** Added aggregate measurement for real Pages visits, pageviews, named official-call clicks, outbound links, RSS fetches, and calendar fetches. It uses no cookies or fingerprinting, honors DNT/GPC, and exposes only daily totals. Repository traffic is permanently rejected as a visitor proxy.
