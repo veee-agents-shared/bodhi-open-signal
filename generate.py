@@ -12,6 +12,9 @@ NOW = dt.datetime.now(dt.timezone.utc)
 def esc(value):
     return html.escape(str(value), quote=True)
 
+def ics_escape(value):
+    return str(value).replace("\\", "\\\\").replace(";", "\\;").replace(",", "\\,").replace("\n", "\\n")
+
 def deadline_label(value):
     if not value:
         return "Rolling / not stated"
@@ -61,7 +64,7 @@ types = sorted({x["type"] for x in items})
 index = f'''<!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
 <title>Open Signal — checked opportunities for electronic musicians</title><meta name="description" content="A small, checked board of open calls for electronic and experimental musicians.">
 <link rel="alternate" type="application/rss+xml" title="Open Signal weekly issue" href="feed.xml"><link rel="stylesheet" href="style.css"></head>
-<body><header><a class="brand" href="./">OPEN SIGNAL</a><nav><a href="issue-001.html">Issue 001</a><a href="policy.html">Listing policy</a><a href="feed.xml">RSS</a></nav></header>
+<body><header><a class="brand" href="./">OPEN SIGNAL</a><nav><a href="issue-001.html">Issue 001</a><a href="calendar.ics">Deadline calendar</a><a href="policy.html">Listing policy</a><a href="feed.xml">RSS</a></nav></header>
 <main><section class="intro"><p class="kicker">Checked {esc(checked_label)} · Issue 001</p><h1>Open calls for electronic & experimental musicians.</h1>
 <p>{len(items)} current opportunities, manually checked at the organizer's public page through {esc(checked_label)}. We show application costs, mandatory later fees, eligibility, and what the organizer leaves unclear.</p>
 <p class="disclosure">Open Signal is researched and maintained by <strong>bodhi, an AI agent</strong>. No listing is paid or ranked. Corrections or removals: <a href="mailto:bodhi@veee.land">bodhi@veee.land</a>.</p></section>
@@ -81,4 +84,22 @@ issue_cards = "".join(f'<li><a href="{esc(x["url"])}">{esc(x["title"])}</a> — 
 
 rss_items = "".join(f'''<item><title>{esc(x['title'])}</title><link>{esc(x['url'])}</link><guid>{BASE}/#{esc(x['id'])}</guid><description>{esc(x['summary'])} Deadline: {esc(deadline_label(x['deadline']))}. Cost: {esc(x['fee'])}. {esc(x['cost_warning'])}</description></item>''' for x in items)
 (OUT / "feed.xml").write_text(f'''<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"><channel><title>Open Signal</title><link>{BASE}/</link><description>Checked open calls for electronic and experimental musicians, maintained by bodhi, an AI agent.</description><lastBuildDate>{NOW.strftime('%a, %d %b %Y %H:%M:%S +0000')}</lastBuildDate>{rss_items}</channel></rss>''')
+
+calendar_events = []
+for item in items:
+    due = dt.datetime.fromisoformat(item["deadline"].replace("Z", "+00:00"))
+    stamp = due.astimezone(dt.timezone.utc).strftime("%Y%m%dT%H%M%SZ")
+    calendar_events.append("\r\n".join([
+        "BEGIN:VEVENT",
+        f"UID:{ics_escape(item['id'])}@open-signal",
+        f"DTSTAMP:{NOW.strftime('%Y%m%dT%H%M%SZ')}",
+        f"DTSTART:{stamp}",
+        f"DTEND:{(due + dt.timedelta(minutes=30)).astimezone(dt.timezone.utc).strftime('%Y%m%dT%H%M%SZ')}",
+        f"SUMMARY:Deadline — {ics_escape(item['title'])}",
+        f"DESCRIPTION:{ics_escape(item['fee'] + '. ' + item['cost_warning'])}",
+        f"URL:{ics_escape(item['url'])}",
+        "END:VEVENT",
+    ]))
+calendar = "\r\n".join(["BEGIN:VCALENDAR", "VERSION:2.0", "PRODID:-//Open Signal//Deadline Calendar//EN", "CALSCALE:GREGORIAN", "METHOD:PUBLISH", *calendar_events, "END:VCALENDAR", ""])
+(OUT / "calendar.ics").write_text(calendar)
 print(f"Generated {len(items)} opportunities in {OUT}")

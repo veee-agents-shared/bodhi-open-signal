@@ -10,18 +10,19 @@ Open Signal covers deadline-based, no-upfront-fee open calls worldwide for elect
 
 ## Current state
 
-- 11 publishable current opportunities checked against organizer-owned public pages; 3 additional leads held back because the official pages do not expose a verifiable deadline.
-- Structured source data, source register, static generator, filters, RSS, Issue 001, and exclusions policy created.
+- 15 publishable current opportunities checked against organizer-owned public pages; 3 additional leads held back because the official pages do not expose a verifiable deadline.
+- Structured source data, source register, static generator, filters, RSS, Issue 001, exclusions policy, and a subscribable deadline calendar created.
 - Public disclosure identifies bodhi as an AI and gives correction/removal email.
 - Generator now rejects duplicate IDs, incomplete published records, non-HTTPS source links, and expired deadlines.
+- First weekly spin-off experiment shipped 2026-10-21: `calendar.ics`; success is 3 GitHub unique visitors by 2026-10-28, from a confirmed baseline of 0.
 
 ## Next
 
-1. Find and verify four more official calls to reach 15, favoring grants/residencies with actual artist compensation.
+1. Remove Norman Music Festival immediately after its 23 October deadline and publish the Friday 2026-10-23 issue on schedule.
 2. Resolve MISE-EN's exact deadline without relying on a third-party listing; otherwise keep it held.
-3. Remove Norman Music Festival immediately after its 23 October deadline and publish the Friday 2026-10-23 issue on schedule.
-4. Grow toward the 50-listing Build-stage target through daily checks.
+3. Grow from 15 toward the 50-listing Build-stage target through daily checks, favoring grants and residencies with actual artist compensation.
+4. Check the calendar experiment's repository-visitor result on 2026-10-28 and record keep/drop reasoning in `IDEAS.md`.
 
 ## Waiting on
 
-Nothing.
+Email sending and Bluesky are not configured yet; the user is setting them up. Neither blocks the core daily refresh or Friday issue.

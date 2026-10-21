@@ -1,0 +1,141 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Open Signal//Deadline Calendar//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:norman-music-festival-2027@open-signal
+DTSTAMP:20261021T171732Z
+DTSTART:20261024T045900Z
+DTEND:20261024T052900Z
+SUMMARY:Deadline — Norman Music Festival 2027 performer applications
+DESCRIPTION:No application fee. The organizer does not state artist compensation or travel support on the application page.
+URL:https://opencall.normanmusicfestival.com/artists
+END:VEVENT
+BEGIN:VEVENT
+UID:tmw-2027@open-signal
+DTSTAMP:20261021T171732Z
+DTSTART:20261026T215900Z
+DTEND:20261026T222900Z
+SUMMARY:Deadline — Tallinn Music Week 2027 artist applications
+DESCRIPTION:No application fee stated. Selected artists receive festival and conference passes\; the source does not state a performance fee or travel support.
+URL:https://tmw.ee/artist-applications
+END:VEVENT
+BEGIN:VEVENT
+UID:spot-festival-2027@open-signal
+DTSTAMP:20261021T171732Z
+DTSTART:20261031T110000Z
+DTEND:20261031T113000Z
+SUMMARY:Deadline — SPOT Festival 2027 artist applications
+DESCRIPTION:No application fee stated. The organizer does not state application costs\, artist compensation\, or travel support on the public call page\; confirm before committing.
+URL:https://spotfestival.dk/apply-to-spot-2027/
+END:VEVENT
+BEGIN:VEVENT
+UID:stias-air-2028-first-semester@open-signal
+DTSTAMP:20261021T171732Z
+DTSTART:20261031T235900Z
+DTEND:20261101T002900Z
+SUMMARY:Deadline — STIAS Artist-in-Residence Fellowship
+DESCRIPTION:No application fee stated. Designed for established artists with an outstanding public track record\; STIAS has no specialized studios\, and fellows arrange their own health insurance.
+URL:https://www.stias.ac.za/fellowships/apply/artist-in-residence/
+END:VEVENT
+BEGIN:VEVENT
+UID:turn-up-2027@open-signal
+DTSTAMP:20261021T171732Z
+DTSTART:20261102T065900Z
+DTEND:20261102T072900Z
+SUMMARY:Deadline — TURN UP Multimedia Festival 2027
+DESCRIPTION:No submission fee stated\; selected artists encouraged to contribute US $70. Selected artists must attend in Tucson. There is no travel stipend or honorarium\, local performers are not guaranteed\, and the $70 contribution is encouraged rather than stated as mandatory.
+URL:https://turnupfestival.weebly.com/turn-up-2027-call-for-submissions.html
+END:VEVENT
+BEGIN:VEVENT
+UID:sound-and-music-in-motion-2027@open-signal
+DTSTAMP:20261021T171732Z
+DTSTART:20261102T235900Z
+DTEND:20261103T002900Z
+SUMMARY:Deadline — Sound and Music In Motion 2027
+DESCRIPTION:No application fee stated. The £4\,000 production grant cannot be used to pay the selected creator a commission fee\; the separate £1\,800 bursary supports participation.
+URL:https://soundandmusic.org/programmes/in-motion/
+END:VEVENT
+BEGIN:VEVENT
+UID:emap-residencies-2027@open-signal
+DTSTAMP:20261021T171732Z
+DTSTART:20261106T130000Z
+DTEND:20261106T133000Z
+SUMMARY:Deadline — European Media Artists in Residence 2027
+DESCRIPTION:No application fee stated. A collaborator is required\, though one can be identified after selection\; the €4\,000 artist grant includes subsistence during the two-month residency.
+URL:https://emare.eu/news-events/open-call-2027
+END:VEVENT
+BEGIN:VEVENT
+UID:sound-future-residency-2026@open-signal
+DTSTAMP:20261021T171732Z
+DTSTART:20261106T225900Z
+DTEND:20261106T232900Z
+SUMMARY:Deadline — Sounds of the Future Residency
+DESCRIPTION:No application fee stated. Application portal is unavailable until 1 November during Koda's system transition.
+URL:https://soundartlab.org/sounds-of-the-future-residency-2/
+END:VEVENT
+BEGIN:VEVENT
+UID:camembert-gift-without-name-2026@open-signal
+DTSTAMP:20261021T171732Z
+DTSTART:20261129T235900Z
+DTEND:20261130T002900Z
+SUMMARY:Deadline — A Gift Without Name compilation
+DESCRIPTION:No fee. No royalties or other payment. Artists keep ownership\, grant no exclusivity\, and can request removal.
+URL:https://www.camembertelectrique.com/news/a-gift-without-name
+END:VEVENT
+BEGIN:VEVENT
+UID:musikfonds-small-project-nov-2026@open-signal
+DTSTAMP:20261021T171732Z
+DTSTART:20261130T170000Z
+DTEND:20261130T173000Z
+SUMMARY:Deadline — Musikfonds small project funding
+DESCRIPTION:No application fee stated. Projects need at least 10% co-financing. Total project cost cannot exceed €10\,000\; purchases and projects outside Germany are ineligible.
+URL:https://www.musikfonds.de/en/foerderprogramme
+END:VEVENT
+BEGIN:VEVENT
+UID:odjeci-spring-2027@open-signal
+DTSTAMP:20261021T171732Z
+DTSTART:20261201T225900Z
+DTEND:20261201T232900Z
+SUMMARY:Deadline — Odjeci Sound Art Fellowship — Spring 2027
+DESCRIPTION:No application fee stated. Travel\, food\, and materials are not covered\; the organizer provides a €500 artist fee\, room\, workspace\, technical support\, and mentorship.
+URL:https://zvjezdanestaze.ba/apply/open-call/odjeci
+END:VEVENT
+BEGIN:VEVENT
+UID:european-music-collective-2027@open-signal
+DTSTAMP:20261021T171732Z
+DTSTART:20261201T235900Z
+DTEND:20261202T002900Z
+SUMMARY:Deadline — European Music Collective at Kintai Music Festival
+DESCRIPTION:No application fee stated\; selected participants pay €25. There is no composition or performance fee. Composer-performers receive accommodation\, but travel\, meals\, and local expenses are not covered\; selected participants pay €25.
+URL:https://europeanmusiccollective.com/open-call/
+END:VEVENT
+BEGIN:VEVENT
+UID:nxne-2027@open-signal
+DTSTAMP:20261021T171732Z
+DTSTART:20270101T045900Z
+DTEND:20270101T052900Z
+SUMMARY:Deadline — Play NXNE 2027
+DESCRIPTION:No application fee. Selected acts choose a CAD $150 band / $100 solo fee or an artist VIP package\; travel and lodging support are not stated.
+URL:https://mynxne.com/
+END:VEVENT
+BEGIN:VEVENT
+UID:nycemf-2027@open-signal
+DTSTAMP:20261021T171732Z
+DTSTART:20270101T045900Z
+DTEND:20270101T052900Z
+SUMMARY:Deadline — New York City Electroacoustic Music Festival 2027
+DESCRIPTION:No submission fee\; about US $350 mandatory if accepted. Important: accepted artists must pay an approximately US $350 registration fee whether or not they attend\; performers and large instruments cost extra. Students may qualify for 50% off.
+URL:https://nycemf.org/
+END:VEVENT
+BEGIN:VEVENT
+UID:alternating-currents-2027@open-signal
+DTSTAMP:20261021T171732Z
+DTSTART:20270101T055900Z
+DTEND:20270101T062900Z
+SUMMARY:Deadline — Alternating Currents 2027 artist applications
+DESCRIPTION:No application fee. Compensation is offered but varies by project and scope\; travel and lodging support are not stated on the call page.
+URL:https://www.alternatingcurrentsqc.com/post/alternating-currents-opens-2027-call-for-artists-creatives
+END:VEVENT
+END:VCALENDAR
