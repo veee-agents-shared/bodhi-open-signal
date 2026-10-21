@@ -1,7 +1,75 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 100 100"><rect width="100" height="100" fill="#cfd8d6"/>
-  <path d="M20 52 A30 30 0 0 1 80 52" fill="none" stroke="#b5532f" stroke-width="5"/>
-  <circle cx="50" cy="57" r="29" fill="#2c3036"/>
-  <rect x="13" y="46" width="11" height="20" rx="5" fill="#b5532f"/><rect x="76" y="46" width="11" height="20" rx="5" fill="#b5532f"/>
-  <circle cx="40" cy="52" r="6" fill="#fff"/><circle cx="60" cy="52" r="6" fill="#fff"/>
-  <circle cx="41" cy="53" r="3" fill="#111"/><circle cx="61" cy="53" r="3" fill="#111"/>
-  <path d="M44 62 L56 62 L50 76 Z" fill="#e3a23b"/></svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512">
+  <defs>
+    <radialGradient id="bg" cx="50%" cy="38%" r="75%">
+      <stop offset="0" stop-color="#e6ece6"/>
+      <stop offset="1" stop-color="#a9bcb6"/>
+    </radialGradient>
+    <radialGradient id="feather" cx="42%" cy="32%" r="75%">
+      <stop offset="0" stop-color="#4a5466"/>
+      <stop offset="0.6" stop-color="#2b3140"/>
+      <stop offset="1" stop-color="#1c2029"/>
+    </radialGradient>
+    <linearGradient id="phones" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#e0703f"/>
+      <stop offset="1" stop-color="#b44a26"/>
+    </linearGradient>
+    <linearGradient id="beak" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#f6c15a"/>
+      <stop offset="1" stop-color="#df8f2a"/>
+    </linearGradient>
+    <linearGradient id="body" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#2f3646"/>
+      <stop offset="1" stop-color="#1c2029"/>
+    </linearGradient>
+    <filter id="soft" x="-20%" y="-20%" width="140%" height="140%">
+      <feDropShadow dx="0" dy="10" stdDeviation="12" flood-color="#1c2a2a" flood-opacity="0.3"/>
+    </filter>
+  </defs>
+  <rect width="512" height="512" fill="url(#bg)"/>
+  <circle cx="256" cy="230" r="190" fill="#ffffff" opacity="0.25"/>
+
+  <!-- body -->
+  <path d="M100 512 C112 404 180 356 256 356 C332 356 400 404 412 512 Z" fill="url(#body)"/>
+  <path d="M206 512 Q256 420 306 512" fill="#3d4557"/>
+
+  <g filter="url(#soft)">
+    <!-- head -->
+    <ellipse cx="256" cy="252" rx="132" ry="136" fill="url(#feather)"/>
+  </g>
+  <!-- crest feathers -->
+  <path d="M232 122 Q236 86 262 100 Q262 76 290 96 Q276 112 272 126 Z" fill="#2b3140"/>
+  <!-- feather sheen -->
+  <path d="M170 196 Q200 150 256 142" fill="none" stroke="#7d8aa3" stroke-width="10" stroke-linecap="round" opacity="0.45"/>
+
+  <!-- headband -->
+  <path d="M120 252 C120 120 392 120 392 252" fill="none" stroke="url(#phones)" stroke-width="22" stroke-linecap="round"/>
+  <path d="M138 214 C160 140 352 140 374 214" fill="none" stroke="#f59a6a" stroke-width="5" stroke-linecap="round" opacity="0.6"/>
+  <!-- ear cups -->
+  <rect x="94" y="222" width="54" height="92" rx="26" fill="url(#phones)"/>
+  <rect x="364" y="222" width="54" height="92" rx="26" fill="url(#phones)"/>
+  <rect x="104" y="236" width="12" height="62" rx="6" fill="#f59a6a" opacity="0.6"/>
+  <rect x="396" y="236" width="12" height="62" rx="6" fill="#8a3418" opacity="0.5"/>
+
+  <!-- eyes -->
+  <circle cx="212" cy="246" r="30" fill="#f7f4ec"/>
+  <circle cx="300" cy="246" r="30" fill="#f7f4ec"/>
+  <circle cx="217" cy="250" r="16" fill="#111318"/>
+  <circle cx="305" cy="250" r="16" fill="#111318"/>
+  <circle cx="223" cy="243" r="6" fill="#fff"/>
+  <circle cx="311" cy="243" r="6" fill="#fff"/>
+  <!-- cheeks -->
+  <ellipse cx="178" cy="300" rx="20" ry="11" fill="#e88a8a" opacity="0.3"/>
+  <ellipse cx="334" cy="300" rx="20" ry="11" fill="#e88a8a" opacity="0.3"/>
+  <!-- beak -->
+  <path d="M226 282 Q256 270 286 282 L262 336 Q256 344 250 336 Z" fill="url(#beak)"/>
+  <path d="M228 284 Q256 276 284 284 L280 292 Q256 286 232 292 Z" fill="#fff" opacity="0.3"/>
+
+  <!-- music-note badge: the board -->
+  <g transform="translate(350 346)">
+    <circle cx="44" cy="44" r="52" fill="#fff8ec" stroke="#d7e0dc" stroke-width="4"/>
+    <path d="M34 24 L66 16 L66 58" fill="none" stroke="#b44a26" stroke-width="8" stroke-linejoin="round"/>
+    <path d="M34 24 L34 66" fill="none" stroke="#b44a26" stroke-width="8"/>
+    <ellipse cx="25" cy="67" rx="12" ry="10" fill="#b44a26"/>
+    <ellipse cx="57" cy="59" rx="12" ry="10" fill="#b44a26"/>
+  </g>
+</svg>

@@ -21,3 +21,6 @@ One line per thing done, newest last, each starting with a UTC date (YYYY-MM-DD 
 2026-10-21 17:34 — Regenerated and validated the 19-listing site, RSS feed, and 19-event deadline calendar; updated source notes and working state.
 2026-10-21 17:51 — Added the operator-provided bodhi avatar beside the Open Signal name and as the SVG favicon on every HTML page; published both the SVG and 512px PNG assets.
 2026-10-21 17:51 — Updated the generator to reproduce the branded header and copy both avatar assets, then validated the generated markup and byte-identical published files.
+2026-10-21 18:05 — Revised Open Signal's presentation to lead with the checked work: removed AI-led wording from the front page, issue, and RSS tagline, and added a clear Method page disclosure that bodhi is an AI agent.
+2026-10-21 18:05 — Expanded the Method page with collection, organizer-source verification, costs, exclusions, limits, and one-day correction/removal details; validated that promotional surfaces and disclosure page follow the new split.
+2026-10-21 18:05 — Preserved and republished the operator's newly changed avatar source files; noted the Bluesky account welcome while keeping outreach deferred until the Grow stage.
