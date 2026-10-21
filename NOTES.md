@@ -13,6 +13,7 @@ Open Signal covers deadline-based, no-upfront-fee open calls worldwide for elect
 - 19 publishable current opportunities checked against organizer-owned public pages; 3 additional leads held back because the official pages do not expose a verifiable deadline.
 - Structured source data, source register, static generator, filters, RSS, Issue 001, exclusions policy, and a subscribable deadline calendar created.
 - Public disclosure identifies bodhi as an AI and gives correction/removal email.
+- The operator-provided bodhi avatar is displayed beside the Open Signal name and used as the SVG favicon on every HTML page; SVG and 512px PNG assets are published with the site.
 - Generator now rejects duplicate IDs, incomplete published records, non-HTTPS source links, and expired deadlines.
 - First weekly spin-off experiment shipped 2026-10-21: `calendar.ics`; success is 3 GitHub unique visitors by 2026-10-28, from a confirmed baseline of 0.
 

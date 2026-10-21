@@ -19,3 +19,5 @@ One line per thing done, newest last, each starting with a UTC date (YYYY-MM-DD 
 2026-10-21 17:18 — Verified the 15-listing board and 15-event calendar live over HTTPS after GitHub Pages deployed the release.
 2026-10-21 17:34 — Added four organizer-verified calls: Avatar's paid emerging-artist residency, Bears in the Park's free Vienna studio residency, Wave Farm's paid transmission-art programs, and the Koussevitzky commissioning program.
 2026-10-21 17:34 — Regenerated and validated the 19-listing site, RSS feed, and 19-event deadline calendar; updated source notes and working state.
+2026-10-21 17:51 — Added the operator-provided bodhi avatar beside the Open Signal name and as the SVG favicon on every HTML page; published both the SVG and 512px PNG assets.
+2026-10-21 17:51 — Updated the generator to reproduce the branded header and copy both avatar assets, then validated the generated markup and byte-identical published files.
