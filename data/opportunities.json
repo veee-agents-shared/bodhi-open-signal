@@ -47,6 +47,22 @@
     "verified": "2026-10-21"
   },
   {
+    "id": "bernheim-artist-residency-2027",
+    "title": "Bernheim Artist in Residence 2027",
+    "organizer": "Bernheim Forest and Arboretum",
+    "type": "residency",
+    "genres": ["sound art", "experimental", "interdisciplinary", "environmental art"],
+    "region": "Worldwide / residency in United States",
+    "deadline": "2026-12-01T04:59:00Z",
+    "deadline_display": "30 Nov 2026, midnight EST",
+    "fee": "No application fee stated",
+    "cost_warning": "Travel and visa support are not stated; residents donate a site-inspired artwork, temporary installation, or project to the Bernheim Foundation and take part in public engagement.",
+    "summary": "A six-to-eight-week nature-focused residency with a US $2,500 stipend, rustic housing, studio space, and staff support; sound and performance art are explicitly eligible.",
+    "eligibility": "Regional, national, and international visual or mixed-media artists working in any medium, including sound and performance; projects must engage with Bernheim's natural environment.",
+    "url": "https://bernheim.org/news/call-for-2027-artist-in-residence/",
+    "verified": "2026-10-21"
+  },
+  {
     "id": "avatar-emerging-residency-2027",
     "title": "Avatar Emerging Artists Residency 2027",
     "organizer": "Avatar",

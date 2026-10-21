@@ -5,7 +5,7 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
 UID:dcmf-winter-residencies-2027@open-signal
-DTSTAMP:20261021T185043Z
+DTSTAMP:20261021T190825Z
 DTSTART:20261022T065900Z
 DTEND:20261022T072900Z
 SUMMARY:Deadline — DCMF Songwriter and Producer Residencies 2027
@@ -14,7 +14,7 @@ URL:https://dcmf.com/
 END:VEVENT
 BEGIN:VEVENT
 UID:norman-music-festival-2027@open-signal
-DTSTAMP:20261021T185043Z
+DTSTAMP:20261021T190825Z
 DTSTART:20261024T045900Z
 DTEND:20261024T052900Z
 SUMMARY:Deadline — Norman Music Festival 2027 performer applications
@@ -23,7 +23,7 @@ URL:https://opencall.normanmusicfestival.com/artists
 END:VEVENT
 BEGIN:VEVENT
 UID:tmw-2027@open-signal
-DTSTAMP:20261021T185043Z
+DTSTAMP:20261021T190825Z
 DTSTART:20261026T215900Z
 DTEND:20261026T222900Z
 SUMMARY:Deadline — Tallinn Music Week 2027 artist applications
@@ -32,7 +32,7 @@ URL:https://tmw.ee/artist-applications
 END:VEVENT
 BEGIN:VEVENT
 UID:spot-festival-2027@open-signal
-DTSTAMP:20261021T185043Z
+DTSTAMP:20261021T190825Z
 DTSTART:20261031T110000Z
 DTEND:20261031T113000Z
 SUMMARY:Deadline — SPOT Festival 2027 artist applications
@@ -41,7 +41,7 @@ URL:https://spotfestival.dk/apply-to-spot-2027/
 END:VEVENT
 BEGIN:VEVENT
 UID:stias-air-2028-first-semester@open-signal
-DTSTAMP:20261021T185043Z
+DTSTAMP:20261021T190825Z
 DTSTART:20261031T235900Z
 DTEND:20261101T002900Z
 SUMMARY:Deadline — STIAS Artist-in-Residence Fellowship
@@ -50,7 +50,7 @@ URL:https://www.stias.ac.za/fellowships/apply/artist-in-residence/
 END:VEVENT
 BEGIN:VEVENT
 UID:turn-up-2027@open-signal
-DTSTAMP:20261021T185043Z
+DTSTAMP:20261021T190825Z
 DTSTART:20261102T065900Z
 DTEND:20261102T072900Z
 SUMMARY:Deadline — TURN UP Multimedia Festival 2027
@@ -59,7 +59,7 @@ URL:https://turnupfestival.weebly.com/turn-up-2027-call-for-submissions.html
 END:VEVENT
 BEGIN:VEVENT
 UID:sound-and-music-in-motion-2027@open-signal
-DTSTAMP:20261021T185043Z
+DTSTAMP:20261021T190825Z
 DTSTART:20261102T235900Z
 DTEND:20261103T002900Z
 SUMMARY:Deadline — Sound and Music In Motion 2027
@@ -68,7 +68,7 @@ URL:https://soundandmusic.org/programmes/in-motion/
 END:VEVENT
 BEGIN:VEVENT
 UID:emap-residencies-2027@open-signal
-DTSTAMP:20261021T185043Z
+DTSTAMP:20261021T190825Z
 DTSTART:20261106T130000Z
 DTEND:20261106T133000Z
 SUMMARY:Deadline — European Media Artists in Residence 2027
@@ -77,7 +77,7 @@ URL:https://emare.eu/news-events/open-call-2027
 END:VEVENT
 BEGIN:VEVENT
 UID:sound-future-residency-2026@open-signal
-DTSTAMP:20261021T185043Z
+DTSTAMP:20261021T190825Z
 DTSTART:20261106T225900Z
 DTEND:20261106T232900Z
 SUMMARY:Deadline — Sounds of the Future Residency
@@ -86,7 +86,7 @@ URL:https://soundartlab.org/sounds-of-the-future-residency-2/
 END:VEVENT
 BEGIN:VEVENT
 UID:avatar-emerging-residency-2027@open-signal
-DTSTAMP:20261021T185043Z
+DTSTAMP:20261021T190825Z
 DTSTART:20261109T045900Z
 DTEND:20261109T052900Z
 SUMMARY:Deadline — Avatar Emerging Artists Residency 2027
@@ -95,7 +95,7 @@ URL:https://avatarquebec.org/en/open-call-%C2%B7-emerging-artists-residency-2027
 END:VEVENT
 BEGIN:VEVENT
 UID:bears-in-the-park-sound-residency-2027@open-signal
-DTSTAMP:20261021T185043Z
+DTSTAMP:20261021T190825Z
 DTSTART:20261115T225900Z
 DTEND:20261115T232900Z
 SUMMARY:Deadline — Bears in the Park Sound Residency 2027
@@ -104,7 +104,7 @@ URL:https://bearsinthepark.org/open-call-sound-2027/
 END:VEVENT
 BEGIN:VEVENT
 UID:camembert-gift-without-name-2026@open-signal
-DTSTAMP:20261021T185043Z
+DTSTAMP:20261021T190825Z
 DTSTART:20261129T235900Z
 DTEND:20261130T002900Z
 SUMMARY:Deadline — A Gift Without Name compilation
@@ -113,7 +113,7 @@ URL:https://www.camembertelectrique.com/news/a-gift-without-name
 END:VEVENT
 BEGIN:VEVENT
 UID:musikfonds-small-project-nov-2026@open-signal
-DTSTAMP:20261021T185043Z
+DTSTAMP:20261021T190825Z
 DTSTART:20261130T170000Z
 DTEND:20261130T173000Z
 SUMMARY:Deadline — Musikfonds small project funding
@@ -121,8 +121,17 @@ DESCRIPTION:No application fee stated. Projects need at least 10% co-financing. 
 URL:https://www.musikfonds.de/en/foerderprogramme
 END:VEVENT
 BEGIN:VEVENT
+UID:bernheim-artist-residency-2027@open-signal
+DTSTAMP:20261021T190825Z
+DTSTART:20261201T045900Z
+DTEND:20261201T052900Z
+SUMMARY:Deadline — Bernheim Artist in Residence 2027
+DESCRIPTION:No application fee stated. Travel and visa support are not stated\; residents donate a site-inspired artwork\, temporary installation\, or project to the Bernheim Foundation and take part in public engagement.
+URL:https://bernheim.org/news/call-for-2027-artist-in-residence/
+END:VEVENT
+BEGIN:VEVENT
 UID:voetvolk-var-2027@open-signal
-DTSTAMP:20261021T185043Z
+DTSTAMP:20261021T190825Z
 DTSTART:20261201T225900Z
 DTEND:20261201T232900Z
 SUMMARY:Deadline — Voetvolk Atelier Rubigny artist residencies 2027
@@ -131,7 +140,7 @@ URL:https://www.voetvolk.be/open-call-for-artist-residencies-v-a-r/
 END:VEVENT
 BEGIN:VEVENT
 UID:odjeci-spring-2027@open-signal
-DTSTAMP:20261021T185043Z
+DTSTAMP:20261021T190825Z
 DTSTART:20261201T225900Z
 DTEND:20261201T232900Z
 SUMMARY:Deadline — Odjeci Sound Art Fellowship — Spring 2027
@@ -140,7 +149,7 @@ URL:https://zvjezdanestaze.ba/apply/open-call/odjeci
 END:VEVENT
 BEGIN:VEVENT
 UID:european-music-collective-2027@open-signal
-DTSTAMP:20261021T185043Z
+DTSTAMP:20261021T190825Z
 DTSTART:20261201T235900Z
 DTEND:20261202T002900Z
 SUMMARY:Deadline — European Music Collective at Kintai Music Festival
@@ -149,7 +158,7 @@ URL:https://europeanmusiccollective.com/open-call/
 END:VEVENT
 BEGIN:VEVENT
 UID:wave-farm-research-production-2027@open-signal
-DTSTAMP:20261021T185043Z
+DTSTAMP:20261021T190825Z
 DTSTART:20261202T045900Z
 DTEND:20261202T052900Z
 SUMMARY:Deadline — Wave Farm Research and Production Program 2027
@@ -158,7 +167,7 @@ URL:https://wavefarm.org/ta/residency-program/info-apply
 END:VEVENT
 BEGIN:VEVENT
 UID:nxne-2027@open-signal
-DTSTAMP:20261021T185043Z
+DTSTAMP:20261021T190825Z
 DTSTART:20270101T045900Z
 DTEND:20270101T052900Z
 SUMMARY:Deadline — Play NXNE 2027
@@ -167,7 +176,7 @@ URL:https://mynxne.com/
 END:VEVENT
 BEGIN:VEVENT
 UID:nycemf-2027@open-signal
-DTSTAMP:20261021T185043Z
+DTSTAMP:20261021T190825Z
 DTSTART:20270101T045900Z
 DTEND:20270101T052900Z
 SUMMARY:Deadline — New York City Electroacoustic Music Festival 2027
@@ -176,7 +185,7 @@ URL:https://nycemf.org/
 END:VEVENT
 BEGIN:VEVENT
 UID:alternating-currents-2027@open-signal
-DTSTAMP:20261021T185043Z
+DTSTAMP:20261021T190825Z
 DTSTART:20270101T055900Z
 DTEND:20270101T062900Z
 SUMMARY:Deadline — Alternating Currents 2027 artist applications
@@ -185,7 +194,7 @@ URL:https://www.alternatingcurrentsqc.com/post/alternating-currents-opens-2027-c
 END:VEVENT
 BEGIN:VEVENT
 UID:vaughan-williams-foundation-jan-2027@open-signal
-DTSTAMP:20261021T185043Z
+DTSTAMP:20261021T190825Z
 DTSTART:20270105T235900Z
 DTEND:20270106T002900Z
 SUMMARY:Deadline — Vaughan Williams Foundation general funding
@@ -194,7 +203,7 @@ URL:https://vaughanwilliamsfoundation.org/funding/support-for-professional-compo
 END:VEVENT
 BEGIN:VEVENT
 UID:koussevitzky-commissioning-2027@open-signal
-DTSTAMP:20261021T185043Z
+DTSTAMP:20261021T190825Z
 DTSTART:20270116T045900Z
 DTEND:20270116T052900Z
 SUMMARY:Deadline — Koussevitzky Foundation Commissioning Program 2027
