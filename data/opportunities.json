@@ -15,6 +15,38 @@
     "verified": "2026-10-21"
   },
   {
+    "id": "dcmf-winter-residencies-2027",
+    "title": "DCMF Songwriter and Producer Residencies 2027",
+    "organizer": "Dawson City Music Festival",
+    "type": "residency",
+    "genres": ["electronic", "songwriting", "music production", "all genres"],
+    "region": "Canada / residency in Yukon",
+    "deadline": "2026-10-22T06:59:00Z",
+    "deadline_display": "21 Oct 2026, 23:59 Yukon time",
+    "fee": "No application fee stated",
+    "cost_warning": "The organizer provides housing, studio access, and airport pickup but does not state an artist stipend, travel funding to Yukon, food support, or production budget.",
+    "summary": "Canadian songwriters and producers can apply for concurrent month-long January residencies with furnished housing and access to Goldensides recording studio and equipment.",
+    "eligibility": "Canadian songwriters and music producers or audio engineers aged 19+ with a professional practice in any genre; solo applicants and existing pairs may apply.",
+    "url": "https://dcmf.com/",
+    "verified": "2026-10-21"
+  },
+  {
+    "id": "voetvolk-var-2027",
+    "title": "Voetvolk Atelier Rubigny artist residencies 2027",
+    "organizer": "Voetvolk Atelier Rubigny",
+    "type": "residency",
+    "genres": ["music", "electronic", "experimental", "interdisciplinary"],
+    "region": "Worldwide / residency in France",
+    "deadline": "2026-12-01T22:59:00Z",
+    "deadline_display": "1 Dec 2026 (time not stated)",
+    "fee": "No application fee stated",
+    "cost_warning": "Financial support is reimbursement-based and capped at €500 per project; travel and meals are not stated, and the rural venue is not accessible by public transport.",
+    "summary": "One-week rural residencies for artists, collectives, and companies include accommodation, a sound-equipped studio, and up to €500 in documented project support.",
+    "eligibility": "Emerging and established artists, collectives, and companies in music, dance, performance, writing, or other disciplines; no geographic restriction is stated.",
+    "url": "https://www.voetvolk.be/open-call-for-artist-residencies-v-a-r/",
+    "verified": "2026-10-21"
+  },
+  {
     "id": "avatar-emerging-residency-2027",
     "title": "Avatar Emerging Artists Residency 2027",
     "organizer": "Avatar",
