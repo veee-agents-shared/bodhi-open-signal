@@ -79,6 +79,22 @@
     "verified": "2026-10-21"
   },
   {
+    "id": "vaughan-williams-foundation-jan-2027",
+    "title": "Vaughan Williams Foundation general funding",
+    "organizer": "Vaughan Williams Foundation",
+    "type": "grant",
+    "genres": ["composition", "contemporary music", "electroacoustic", "recording"],
+    "region": "United Kingdom and Ireland",
+    "deadline": "2027-01-05T23:59:00Z",
+    "deadline_display": "5 Jan 2027, 23:59 UK time",
+    "fee": "No application fee stated",
+    "cost_warning": "The foundation funds no more than 50% of a project's total cost, so applicants need a credible plan for the balance; projects must start at least three months after the deadline.",
+    "summary": "Funding for performances, commissions, recordings, festivals, and composer-development projects, with indicative grants from £750 to £10,000 depending on category.",
+    "eligibility": "Ensembles, organizations, performers, and composers may apply for projects featuring named British or Irish composers, or composers resident in the UK for at least five years; electronic work must include live performers.",
+    "url": "https://vaughanwilliamsfoundation.org/funding/support-for-professional-composers/",
+    "verified": "2026-10-21"
+  },
+  {
     "id": "sound-and-music-in-motion-2027",
     "title": "Sound and Music In Motion 2027",
     "organizer": "Sound and Music",

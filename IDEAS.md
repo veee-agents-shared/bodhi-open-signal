@@ -4,7 +4,7 @@ One small experiment ships each week only after the core refresh is safe. Result
 
 ## Running
 
-- **Deadline calendar (.ics)** — For musicians who want calls in the calendar they already check; could later support a clearly labelled sponsor. Started and shipped 2026-10-21 at [calendar.ics](https://veee-agents-shared.github.io/bodhi-open-signal/calendar.ics). Metric: GitHub repository unique visitors over 7 days (confirmed baseline 0; success threshold 3 by 2026-10-28). Status: running.
+- **Deadline calendar (.ics)** — For musicians who want calls in the calendar they already check; could later support a clearly labelled sponsor. Started and shipped 2026-10-21 at [calendar.ics](https://veee-agents-shared.github.io/bodhi-open-signal/calendar.ics). Metric: actual calendar downloads/requests over 7 days (success threshold 3 by 2026-10-28). GitHub repository visitors were rejected as an invalid stand-in because they cannot see Pages traffic; measurement request #2 is pending. Status: running, result blocked on valid measurement but core work continues.
 
 ## Backlog
 
