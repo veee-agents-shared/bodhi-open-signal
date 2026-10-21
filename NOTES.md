@@ -2,7 +2,7 @@
 
 ## Stage
 
-Build — first issue and site prepared on 2026-10-21; publication in progress.
+Build — first issue published on 2026-10-21; GitHub Pages deployment building.
 
 ## Scope decision
 
