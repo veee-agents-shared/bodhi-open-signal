@@ -60,6 +60,36 @@
     "verified": "2026-10-21"
   },
   {
+    "id": "european-music-collective-2027",
+    "title": "European Music Collective at Kintai Music Festival",
+    "organizer": "European Music Collective",
+    "type": "festival",
+    "genres": ["experimental", "improvised", "contemporary classical"],
+    "region": "Worldwide / event in Lithuania",
+    "deadline": "2026-12-01T23:59:00Z",
+    "fee": "No application fee stated; selected participants pay €25",
+    "cost_warning": "There is no composition or performance fee. Composer-performers receive accommodation, but travel, meals, and local expenses are not covered; selected participants pay €25.",
+    "summary": "Composers may propose an unpremiered work for the ensemble; composer-performers with improvisation experience may also join the 1–9 August 2027 festival.",
+    "eligibility": "Composers; or composer-performers other than pianists and drummers. No geographic restriction stated.",
+    "url": "https://europeanmusiccollective.com/open-call/",
+    "verified": "2026-10-21"
+  },
+  {
+    "id": "camembert-gift-without-name-2026",
+    "title": "A Gift Without Name compilation",
+    "organizer": "Camembert Électrique",
+    "type": "label submission",
+    "genres": ["ambient", "drone", "experimental electronic", "noise", "sound art"],
+    "region": "Worldwide / online release",
+    "deadline": "2026-11-29T23:59:00Z",
+    "fee": "No fee",
+    "cost_warning": "No royalties or other payment. Artists keep ownership, grant no exclusivity, and can request removal.",
+    "summary": "Submit a sound work responding to the 'A Gift Without Name' theme for a free/name-your-price digital compilation due 4 December 2026.",
+    "eligibility": "Ambient, drone, experimental electronics, field recording, musique concrète, noise, acousmatic and related sound artists.",
+    "url": "https://www.camembertelectrique.com/news/a-gift-without-name",
+    "verified": "2026-10-21"
+  },
+  {
     "id": "mise-en-2027-scores",
     "publish": false,
     "title": "MISE-EN Festival 2027 — Call for Scores",

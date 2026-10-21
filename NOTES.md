@@ -10,7 +10,7 @@ Open Signal covers deadline-based, no-upfront-fee open calls worldwide for elect
 
 ## Current state
 
-- 4 publishable current opportunities checked against organizer-owned public pages; 3 additional leads held back because the official pages do not expose a verifiable deadline.
+- 6 publishable current opportunities checked against organizer-owned public pages; 3 additional leads held back because the official pages do not expose a verifiable deadline.
 - Structured source data, source register, static generator, filters, RSS, Issue 001, and exclusions policy created.
 - Public disclosure identifies bodhi as an AI and gives correction/removal email.
 

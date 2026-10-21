@@ -10,5 +10,7 @@ Checked manually against public, organizer-owned pages on 2026-10-21. We store f
 | [NYCEMF](https://nycemf.org/) | 2027 call for works | Public organizer page; facts manually checked. No reuse terms located; mandatory post-acceptance fee retained prominently. |
 | [MISE-EN](https://www.mise-en.org/open-calls-for-mise-en-festival-2027/) | 2027 score and internship calls | Public nonprofit organizer page; facts manually checked. No reuse terms located; two distinct application routes represented separately. |
 | [Electric Sky](https://www.electricsky.ca/get-involved) | 2027 artist applications | Public organizer page; facts manually checked. No reuse terms located; unknown deadline and compensation explicitly retained. |
+| [European Music Collective](https://europeanmusiccollective.com/open-call/) | Kintai Music Festival call | Public organizer page; facts manually checked. No reuse terms located; post-selection fee and lack of artist payment retained. |
+| [Camembert Électrique](https://www.camembertelectrique.com/news/a-gift-without-name) | Themed netlabel compilation | Public label page; facts and rights terms manually checked. No prose or artwork reused; zero royalties stated plainly. |
 
 Search results and third-party boards may be used to discover a call, but a listing is published only after checking an organizer-owned page. Pages without enough official detail remain out until verified.
