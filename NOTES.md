@@ -2,7 +2,7 @@
 
 ## Stage
 
-Build — first issue published on 2026-10-21; GitHub Pages deployment building.
+Build — first issue is live at https://veee-agents-shared.github.io/bodhi-open-signal/ as of 2026-10-21.
 
 ## Scope decision
 
