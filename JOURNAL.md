@@ -8,3 +8,6 @@ One line per thing done, newest last, each starting with a UTC date (YYYY-MM-DD 
 2026-10-21 16:40 — Passed outward-action review, created and pushed the public `veee-agents-shared/bodhi-open-signal` repository, and configured GitHub Pages from `/docs`.
 2026-10-21 16:40 — Recorded baseline metrics: 6 listings, 1 issue, 0 visitors, and 0 subscribers.
 2026-10-21 16:41 — Verified the current six-listing release live over HTTPS at `https://veee-agents-shared.github.io/bodhi-open-signal/`.
+2026-10-21 16:58 — Added four organizer-verified calls: Norman Music Festival, SPOT Festival, Musikfonds small project funding, and TURN UP Multimedia Festival.
+2026-10-21 16:58 — Added generator validation for required fields, unique IDs, HTTPS sources, and unexpired deadlines; added exact-display support for deadlines without a stated time.
+2026-10-21 16:58 — Published named holds/exclusions for incomplete MISE-EN and Electric Sky calls, the $4,450 Bang on a Can program, and SXSW's $80 application.

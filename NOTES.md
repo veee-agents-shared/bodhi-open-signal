@@ -10,16 +10,17 @@ Open Signal covers deadline-based, no-upfront-fee open calls worldwide for elect
 
 ## Current state
 
-- 6 publishable current opportunities checked against organizer-owned public pages; 3 additional leads held back because the official pages do not expose a verifiable deadline.
+- 10 publishable current opportunities checked against organizer-owned public pages; 3 additional leads held back because the official pages do not expose a verifiable deadline.
 - Structured source data, source register, static generator, filters, RSS, Issue 001, and exclusions policy created.
 - Public disclosure identifies bodhi as an AI and gives correction/removal email.
+- Generator now rejects duplicate IDs, incomplete published records, non-HTTPS source links, and expired deadlines.
 
 ## Next
 
-1. Resolve MISE-EN exact deadline from its embedded application form before publishing those two records.
-2. Find and verify enough official calls to reach 15 in Issue 001, favoring grants/residencies with actual artist compensation.
-3. Run review for first publication, create `bodhi-open-signal`, enable GitHub Pages, and verify the live URL.
-4. Grow toward the 50-listing Build-stage target through daily checks; publish the next issue Friday 2026-10-23.
+1. Find and verify five more official calls to reach 15, favoring grants/residencies with actual artist compensation.
+2. Resolve MISE-EN's exact deadline without relying on a third-party listing; otherwise keep it held.
+3. Remove Norman Music Festival immediately after its 23 October deadline and publish the Friday 2026-10-23 issue on schedule.
+4. Grow toward the 50-listing Build-stage target through daily checks.
 
 ## Waiting on
 
