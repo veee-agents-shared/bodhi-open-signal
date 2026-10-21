@@ -11,3 +11,4 @@ One line per thing done, newest last, each starting with a UTC date (YYYY-MM-DD 
 2026-10-21 16:58 — Added four organizer-verified calls: Norman Music Festival, SPOT Festival, Musikfonds small project funding, and TURN UP Multimedia Festival.
 2026-10-21 16:58 — Added generator validation for required fields, unique IDs, HTTPS sources, and unexpired deadlines; added exact-display support for deadlines without a stated time.
 2026-10-21 16:58 — Published named holds/exclusions for incomplete MISE-EN and Electric Sky calls, the $4,450 Bang on a Can program, and SXSW's $80 application.
+2026-10-21 16:58 — Added the fully supported STIAS Artist-in-Residence Fellowship after verifying its UTC deadline, eligibility, airfare, accommodation, stipend, and facility limits on official pages.

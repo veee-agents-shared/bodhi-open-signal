@@ -138,6 +138,21 @@
     "verified": "2026-10-21"
   },
   {
+    "id": "stias-air-2028-first-semester",
+    "title": "STIAS Artist-in-Residence Fellowship",
+    "organizer": "Stellenbosch Institute for Advanced Study",
+    "type": "residency",
+    "genres": ["composition", "sound art", "artistic research", "interdisciplinary"],
+    "region": "Worldwide / residency in South Africa",
+    "deadline": "2026-10-31T23:59:00Z",
+    "fee": "No application fee stated",
+    "cost_warning": "Designed for established artists with an outstanding public track record; STIAS has no specialized studios, and fellows arrange their own health insurance.",
+    "summary": "A fully supported 2028 fellowship for an interdisciplinary creative project, including return economy travel, accommodation, a monthly living stipend, weekday lunch, and workspace.",
+    "eligibility": "Established artists of any discipline and country; composers and performing artists are explicitly eligible.",
+    "url": "https://www.stias.ac.za/fellowships/apply/artist-in-residence/",
+    "verified": "2026-10-21"
+  },
+  {
     "id": "camembert-gift-without-name-2026",
     "title": "A Gift Without Name compilation",
     "organizer": "Camembert Électrique",

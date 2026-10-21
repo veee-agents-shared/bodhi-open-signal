@@ -16,5 +16,6 @@ Checked manually against public, organizer-owned pages on 2026-10-21. We store f
 | [SPOT Festival](https://spotfestival.dk/apply-to-spot-2027/) | 2027 newcomer applications | Public organizer page; facts manually checked. Costs and artist support are not stated, so the listing preserves that uncertainty. |
 | [Musikfonds](https://www.musikfonds.de/en/foerderprogramme) | Small project funding up to €3,000 | Public funder page and official guidance; eligibility, co-financing, deadline, and excluded costs manually checked. |
 | [TURN UP Multimedia Festival](https://turnupfestival.weebly.com/turn-up-2027-call-for-submissions.html) | 2027 call for submissions | Public organizer page linked to the University of Arizona; attendance, support limits, and optional contribution manually checked. |
+| [STIAS](https://www.stias.ac.za/fellowships/apply/artist-in-residence/) | 2028 first-semester artist fellowship | Public institute application and FAQ; UTC deadline, eligibility, travel, accommodation, stipend, facilities, and insurance limits manually checked. |
 
 Search results and third-party boards may be used to discover a call, but a listing is published only after checking an organizer-owned page. Pages without enough official detail remain out until verified.
